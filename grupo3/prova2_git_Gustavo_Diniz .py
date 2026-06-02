@@ -53,7 +53,7 @@ def autores_do_repositorio(commits: list) -> list:
 #  registrar_aluno("matricula", "nome", "sobrenome")
 # ============================================================
 
-registrar_aluno("asdasd211", "teste", "tesrsdf")
+registrar_aluno("2026111510454", "Gustavo", "Diniz")
 
 # ============================================================
 #  NÃO ALTERE O CÓDIGO ABAIXO
